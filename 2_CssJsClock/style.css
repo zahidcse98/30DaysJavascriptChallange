@@ -45,3 +45,13 @@ body {
   transition: all 0.05s;
   transition-timing-function: cubic-bezier(0.1, 2.7, 0.58, 1);
 }
+
+#name {
+  margin-top: 10rem;
+  display: block;
+  color: whitesmoke;
+}
+a {
+  font-style: italic;
+  color: white;
+}
