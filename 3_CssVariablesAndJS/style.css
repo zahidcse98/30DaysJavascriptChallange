@@ -29,3 +29,17 @@ body {
 input {
   width: 100px;
 }
+
+img {
+  width: 600px;
+  height: 400px;
+}
+
+footer {
+  margin-top: 1rem;
+  font-size: 1.5rem;
+}
+
+a {
+  color: white;
+}
